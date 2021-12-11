@@ -1,0 +1,14 @@
+.dataResult{
+    margin-top: 5px;
+    width: 200px;
+    height: 100px;
+    background-color: aliceblue;
+    box-shadow: rgb(231, 231, 236) 0px 5px 12px;
+    overflow: hidden;
+    overflow-y: auto;
+    text-decoration: none;
+}
+
+.dataResult::-webkit-scrollbar {
+    display: none;
+}
